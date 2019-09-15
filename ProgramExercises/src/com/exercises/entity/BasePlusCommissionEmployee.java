@@ -17,9 +17,6 @@ public class BasePlusCommissionEmployee {
     }
 
     private BasePlusCommissionEmployee() {
-        employeeID = "";
-        firstName = "";
-        lastName = "";
         baseSalary = 200D;
         grossSales = 1D;
         commissionRate = 0.1D;
